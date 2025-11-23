@@ -1,7 +1,7 @@
 # Campus Course & Records Manager (CCRM)
 Submitted by : 
-Name : Raghav Gupta
-Reg No : 24BCE10427
+Name : Kanishk Seth
+Reg No : 24BCE10600
 
 # Folder Structure
 
@@ -73,4 +73,5 @@ A console-based Java application for managing students, courses, enrollments, an
 
 ## Enabling Assertions
 ```bash
+
 java -ea -cp bin edu.ccrm.Main
