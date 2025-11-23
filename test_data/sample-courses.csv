@@ -1,0 +1,13 @@
+code,title,credits,instructor,semester,department,active
+CS101,Introduction to Computer Science,3,Dr. Smith,FALL,Computer Science,true
+CS201,Data Structures and Algorithms,4,Dr. Johnson,FALL,Computer Science,true
+CS301,Database Management Systems,3,Dr. Williams,SPRING,Computer Science,true
+MATH101,Calculus I,4,Dr. Brown,FALL,Mathematics,true
+MATH201,Calculus II,4,Dr. Davis,SPRING,Mathematics,true
+PHY101,Physics Fundamentals,3,Dr. Wilson,FALL,Physics,true
+CHEM101,General Chemistry,3,Dr. Taylor,SPRING,Chemistry,true
+ENG101,English Composition,3,Dr. Anderson,FALL,English,true
+HIST101,World History,3,Dr. Thomas,SPRING,History,true
+BIO101,Biology Fundamentals,4,Dr. White,FALL,Biology,true
+EE101,Introduction to Electrical Engineering,3,Dr. Harris,SPRING,Electrical Engineering,true
+ME201,Mechanical Engineering Principles,4,Dr. Martin,FALL,Mechanical Engineering,true

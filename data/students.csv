@@ -1,0 +1,4 @@
+id,regNo,fullName,email,active,createdDate
+S001,2023001,John Doe,john.doe@university.edu,true,2025-09-24
+S002,2023002,Jane Smith,jane.smith@university.edu,true,2025-09-24
+S003,2023003,Bob Johnson,bob.johnson@university.edu,true,2025-09-24
